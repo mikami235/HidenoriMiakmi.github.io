@@ -24,7 +24,6 @@ Before working as Data Scientis, my profession in nuclear power plant division w
 - Robot operation at site
 ```
 
-
-
-
-[LinkedIn](https://www.linkedin.com/in/hidenori-mikami-7a58042a/) and ![Image](github_io_profile.jpeg)
+Links:
+[LinkedIn](https://www.linkedin.com/in/hidenori-mikami-7a58042a/) 
+[Image](github_io_profile.jpeg)
