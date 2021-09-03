@@ -1,37 +1,30 @@
 ## Welcome to Hidenori Mikami's GithubPage
 
-You can use the [editor on GitHub](https://github.com/mikami235/mikami235.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Data Scientist working for an pharmaceutical company in Japan.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+My interest is in providing safe and  secure future with our descendants by automation and remoteization.
+In detail, I have used the following knowledge and skills from 2017.
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Time series analysis
+- Causal analysis
+- Image Processing
+- Marketing Analysis (including Machen learning)
+- Controlling Robotics (ROS)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Before working as Data Scientis, my profession in nuclear power plant division was the following;
+```markdown
+- Machine Strucure Design(Seismic design)
+- Reliability analysis
+- Decontamination design
+- Robot operation at site
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikami235/mikami235.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+[LinkedIn](https://www.linkedin.com/in/hidenori-mikami-7a58042a/) and ![Image](github_io_profile.jpeg)
