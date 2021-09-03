@@ -26,4 +26,4 @@ Before working as Data Scientis, my profession in nuclear power plant division w
 
 Links:
 [LinkedIn](https://www.linkedin.com/in/hidenori-mikami-7a58042a/) 
-[Image](github_io_profile.jpeg)
+![Image](github_io_profile.jpeg)
