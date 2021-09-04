@@ -16,6 +16,14 @@ My skills are the followings;
 - Marketing Analysis (including Machen learning)
 - Controlling Robotics (ROS)
 
+Language:
+Python3, R, Ruby, JavaScript
+Environment:
+Windows, Mac, Linux(Ubuntu)
+Cloud:
+GCP, AWS
+
+
 <Nuclear power plant engineer in plant division>
 2012 ~ 2017
 - Machine Strucure Design(Seismic design)
